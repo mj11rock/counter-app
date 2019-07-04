@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/counter-app/static/css/main.a7617a66.chunk.css",
+    "main.js": "/counter-app/static/js/main.13513cbd.chunk.js",
+    "main.js.map": "/counter-app/static/js/main.13513cbd.chunk.js.map",
+    "runtime~main.js": "/counter-app/static/js/runtime~main.c63f0888.js",
+    "runtime~main.js.map": "/counter-app/static/js/runtime~main.c63f0888.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/counter-app/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.eb088328.chunk.js": "/counter-app/static/js/2.eb088328.chunk.js",
+    "static/js/2.eb088328.chunk.js.map": "/counter-app/static/js/2.eb088328.chunk.js.map",
+    "index.html": "/counter-app/index.html",
+    "precache-manifest.f8ef0811808151bb2fd141304ceec1d6.js": "/counter-app/precache-manifest.f8ef0811808151bb2fd141304ceec1d6.js",
+    "service-worker.js": "/counter-app/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/counter-app/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.a7617a66.chunk.css.map": "/counter-app/static/css/main.a7617a66.chunk.css.map"
+  }
+}
